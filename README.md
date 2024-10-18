@@ -2,12 +2,12 @@
 
 ## Online Classroom
 Online classroom management project mainly focuses on dealing with students and their assignments on a live class session. The system displays all the classes available when the user log into the system with their respective class codes required to join the class. The system also allows the student for any class enrollment. This project comes in two categories. A teacher/tutor panel and a student panel. The students can join any class using the class code provided by the teacher who created that class. Meaning, each user needs to have the class code to access the classroom. After enrollment, student can view all the posts from the teacher, he/she can also view the assignments uploaded by the teacher and can download them. The user can also search for a post, publish a post and leave comments on each enrolled class.
-* Web Link: https://drinking-eraser.000webhostapp.com/register.php *
-               Features
+*Web Link: https://drinking-eraser.000webhostapp.com/register.php*
+               ## Features
 ### (a) Student Panel
 Description: The Student Panel is the interface through which students interact with the virtual classroom. It is designed to be user-friendly and accessible.
 
-* Key Functions: *
+*Key Functions:*
   1. Dashboard: Displays an overview of all enrolled classes, upcoming assignments, and recent posts.
   2. Class Access: Allows students to access specific classes and participate in discussions.
   3. Assignments: Enables students to view, download, and submit assignments
@@ -16,7 +16,7 @@ Description: The Student Panel is the interface through which students interact 
 ### (b) Teacher Panel
 Description: The Teacher Panel is the administrative interface for teachers to manage their classes and interact with students.
 
-* Key Functions: *
+*Key Functions:*
   1. Class Management: Create and delete classes.
   2. Post Announcements: Teachers can publish posts to share updates, resources, and important information.
   3. Assignment Management: Upload, manage and assignments.
@@ -26,7 +26,7 @@ Description: The Teacher Panel is the administrative interface for teachers to m
 ### (c) Create Classes
 Description: This feature allows teachers to create new classes, defining the course code, section I.e A or B, and Course title or Subject.
 
-* Key Functions: *
+*Key Functions:*
   1. Class Details: Input course code, section,  and course title or subject.
   2. Class Code Generation: Unique class code will be generated automatically  that students will use to join the class.
   3. Resource Upload: Upload course materials such as lecture notes, assignments, and multimedia resources.
@@ -34,7 +34,7 @@ Description: This feature allows teachers to create new classes, defining the co
 ### (d) Join Classes (with class code)
 Description: Students can enroll in classes using a unique class code provided by the teacher. Teacher will have to send the class code to the students via email or whatsapp.
 
-* Key Functions: *
+*Key Functions:*
   1. Class Code Entry: Students enter the class code in the specified field to join a class.
   2. Verification: The system verifies the class code and enrolls the student in the corresponding class.
   3. Access Granted: Upon successful enrollment, students gain access to all class materials and activities.
@@ -42,7 +42,7 @@ Description: Students can enroll in classes using a unique class code provided b
 ### (e) Manage Posts
 Description: Both students and teachers can manage posts within their classes, facilitating communication and information sharing.
 
-* Key Functions: *
+*Key Functions:*
   1. Create Posts: Users can write and publish posts to the class feed.
   2. Edit and Delete Posts: Users can modify or remove their own posts.
   3. Commenting: Students and teachers can comment on posts to engage in discussions or ask questions.
@@ -50,20 +50,20 @@ Description: Both students and teachers can manage posts within their classes, f
 ### (f) Upload Assignments
 Description: Teachers can upload assignments for students to complete, providing all necessary instructions and resources.
 
-* Key Functions: *
+*Key Functions:*
   1. Assignment Details: Specify assignment title, description, due date, and any other instructions.
   2. File Upload: Teachers can upload files related to the assignment. The allowed format for the uploads are jpg, jpeg, png, pdf, docx, doc, xlsx, pptx, ppt.
     
 ### (g) Post Assignments
 Description: Students can submit their completed assignments through the system, ensuring a streamlined and organized submission process.
 
-* Key Functions: *
+*Key Functions:*
   1. Submit Work: Students can upload their completed assignments in the format:  jpg, jpeg, png, pdf, docx, doc, xlsx, pptx, ppt.
   
 ### (h) Update User Profile
 Description: Both students and teachers can update their personal profiles to keep their information current.
 
-* Key Functions: *
+*Key Functions:*
   1. Personal Information: Edit personal details such as name, email, and contact information.
   2. Profile Picture: Upload or change profile pictures.
   3.  Password Management: Update passwords and manage security settings.
@@ -71,7 +71,7 @@ Description: Both students and teachers can update their personal profiles to ke
 ### (i) View Class Members
 Description: Users can view a list of all members enrolled in a particular class, fostering a sense of community and collaboration.
 
-* Key Functions: *
+*Key Functions:*
   1. Member List: Display names, roles (student or teacher), and profiles of all class members.
 
   ## Technologies used
