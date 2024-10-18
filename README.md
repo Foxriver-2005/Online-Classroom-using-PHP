@@ -3,7 +3,7 @@
 ## Online Classroom
 Online classroom management project mainly focuses on dealing with students and their assignments on a live class session. The system displays all the classes available when the user log into the system with their respective class codes required to join the class. The system also allows the student for any class enrollment. This project comes in two categories. A teacher/tutor panel and a student panel. The students can join any class using the class code provided by the teacher who created that class. Meaning, each user needs to have the class code to access the classroom. After enrollment, student can view all the posts from the teacher, he/she can also view the assignments uploaded by the teacher and can download them. The user can also search for a post, publish a post and leave comments on each enrolled class.
 *Web Link: https://drinking-eraser.000webhostapp.com/register.php*
-                        ## Features
+## Features
   
 ### (a) Student Panel
 Description: The Student Panel is the interface through which students interact with the virtual classroom. It is designed to be user-friendly and accessible.
