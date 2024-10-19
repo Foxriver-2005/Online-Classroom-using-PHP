@@ -103,7 +103,8 @@ When the user has already join the class, he/she can see the instructor name, li
 #### Home Page After enrolling
 ![image](https://github.com/user-attachments/assets/90081a08-7c57-4da1-8ebe-249f69b61105)
 #### student writing a post
-![image](https://github.com/user-attachments/assets/c96c7941-6238-47a8-8281-84cc7333abb2)
+![image](https://github.com/user-attachments/assets/d3a5f3bd-b337-45b8-89e5-c834dac7ea53)
+
 #### Student uploading assignment in the assignment section
 ![image](https://github.com/user-attachments/assets/c3f1066c-6ece-492a-bc43-c2e5b5bd7519)
 
