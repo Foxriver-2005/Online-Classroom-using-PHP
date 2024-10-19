@@ -81,3 +81,34 @@ A user intuitive dashboard is created with simple color combinations for greater
   ## Workflow
 The first page that is loaded when the website is loaded is the login page where the user has the option of login and can as well click the register button if they don’t have an account. Once the user has logged into the system he/she will be redirected to the index page, which displays the classes that user is enrolled on, classes that the user is teaching will be shown as well. To the top right most corner of the index page there is a text displaying current logged in user name, the link is clickable which will take the user to the profile page, when they can update the profile information, there is (+) sign at the top right most corner which when click, it will redirect to a new page where the user can create a class or join a class, so long as they have the class code for that particular class that they wish to join.
 When the user has already join the class, he/she can see the instructor name, list of other students in the class. They user can also publish a post and comment on a post when in class, there is also a Assignment section which show the uploaded assignments by the teacher, the student can comment on an assignment and can as well upload the assignment document in the specified format.
+
+## IMAGES
+ ### 1. Tutor pages
+#### Home page
+![Screenshot From 2024-10-19 15-28-24](https://github.com/user-attachments/assets/19c8af33-d091-4456-a540-997dfa89faa9)
+#### Classroom creation
+![image](https://github.com/user-attachments/assets/91678bdb-2194-4374-9b22-7e36cf2b21d3)
+#### Class code used to Join Class
+![Screenshot From 2024-10-19 15-29-37](https://github.com/user-attachments/assets/3b1aa3a8-5f68-4443-87f5-0cb5f9c2309f)
+#### Classroom Posts section
+![Screenshot From 2024-10-19 15-29-01](https://github.com/user-attachments/assets/4b65b3a6-68f2-4f0a-9eb5-0f66cede575f)
+#### Classroom Assignments section
+![Screenshot From 2024-10-19 15-29-26](https://github.com/user-attachments/assets/c25a1db7-3d92-4a65-919c-f4615c3ec645)
+
+### 2. Student Pages
+#### Home Page
+![image](https://github.com/user-attachments/assets/689dab4a-091e-4bc8-b0ea-6039cd58f76d)
+#### Joining a Class with class code provided by the tutor
+![image](https://github.com/user-attachments/assets/572aa2b7-db01-4512-9501-4d08091e42da)
+#### Home Page After enrolling
+![image](https://github.com/user-attachments/assets/90081a08-7c57-4da1-8ebe-249f69b61105)
+#### student writing a post
+![image](https://github.com/user-attachments/assets/c96c7941-6238-47a8-8281-84cc7333abb2)
+#### Student uploading assignment in the assignment section
+![image](https://github.com/user-attachments/assets/c3f1066c-6ece-492a-bc43-c2e5b5bd7519)
+
+#### Students might as well copy the class code and send to other colleques for them to join the class
+![image](https://github.com/user-attachments/assets/3ab97100-2139-40f7-b10f-6a9fc6efc6fc)
+#### Class members count increases when a new student joins the class
+![image](https://github.com/user-attachments/assets/eb6079ca-e25d-4eff-aba7-8bf36f389bdb)
+
