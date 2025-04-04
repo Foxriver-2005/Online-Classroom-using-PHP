@@ -113,3 +113,7 @@ When the user has already join the class, he/she can see the instructor name, li
 #### Class members count increases when a new student joins the class
 ![image](https://github.com/user-attachments/assets/eb6079ca-e25d-4eff-aba7-8bf36f389bdb)
 
+## WorkFlow
+![diagram (2)](https://github.com/user-attachments/assets/80a92db1-63a7-4867-81e4-e64806ff2695)
+
+
